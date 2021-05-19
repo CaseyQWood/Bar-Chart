@@ -1,0 +1,32 @@
+{
+  "name": "bar-chart",
+  "version": "1.0.0",
+  "description": "bar-chart Json",
+  "main": "bar-chart.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaseyQWood/Bar-Chart.git"
+  },
+  "keywords": [
+    "bar",
+    "chart"
+  ],
+  "author": "Casey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaseyQWood/Bar-Chart/issues"
+  },
+  "homepage": "https://github.com/CaseyQWood/Bar-Chart#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.24.0",
+    "@typescript-eslint/parser": "^4.24.0",
+    "eslint": "^7.26.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.23.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1"
+  }
+}
